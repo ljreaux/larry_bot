@@ -1,0 +1,31 @@
+{
+  "name": "larry_bot",
+  "version": "1.0.0",
+  "description": "discord bot for MMM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ljreaux/larry_bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "node",
+    "discordBot"
+  ],
+  "author": "larry reaux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ljreaux/larry_bot/issues"
+  },
+  "homepage": "https://github.com/ljreaux/larry_bot#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
